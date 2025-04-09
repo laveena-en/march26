@@ -32,6 +32,10 @@
     {
       "id": "Page2 Copy",
       "isDefault": false
+    },
+    {
+      "id": "test",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
